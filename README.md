@@ -40,6 +40,9 @@ A Java desktop Application with MySQL database for creating custom reminders.
 * **Alen Joseph** - 
 
 
+## Issue
+ Audioplayer support is only upto java 1.8
+
 
 ## License
 

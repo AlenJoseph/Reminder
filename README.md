@@ -5,7 +5,7 @@ A Java desktop Application with MySQL database for creating custom reminders.
 ### Prerequisites
 
 1) Mysql
-2) JAVA 8
+2) JAVA JDK 8
 
 ###  Getting Started(Installation) 
 
